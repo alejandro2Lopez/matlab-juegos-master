@@ -138,5 +138,8 @@
       }
     }
   },
-  "defaultProject": "matlab-juegos"
+  "defaultProject": "matlab-juegos",
+  "cli": {
+    "analytics": "23b5f877-af9e-469c-988d-eaf76e4217c1"
+  }
 }
